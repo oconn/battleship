@@ -2,4 +2,4 @@
 
 run the follow command from your termianl window.
 
-ruby battleship.rb
+ruby battle_ship.rb
